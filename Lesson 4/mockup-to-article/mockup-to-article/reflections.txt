@@ -7,3 +7,11 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+1. I have learned about the tree structure and I have a little bit different view on programming now!
+
+2. Due to my prior knowledge of HTML i already knew most of the elements!
+
+3. Handling the Feedback tool and the Figure part of the Lesson
+
+4. Researching by myself, asking mates for help!
